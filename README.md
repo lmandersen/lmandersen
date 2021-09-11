@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @lmandersen
-- 👀 I’m interested in geospatial technology.
+👋 Hi, I’m @lmandersen. Currently, I'm the GIS Lab Manager and Adjunct Instructor in the Appalachian State University Department of Geography & Planning.
